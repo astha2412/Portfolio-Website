@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.eb5d3190.css",
+    "main.js": "/Portfolio-Website/static/js/main.fdb55e6f.js",
+    "static/media/7A.png": "/Portfolio-Website/static/media/7A.7b099c7c94c577afa681.png",
+    "static/media/portfolio5.png": "/Portfolio-Website/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/cv.pdf": "/Portfolio-Website/static/media/cv.8c9f7b8196c8ecaf4a8c.pdf",
+    "static/media/portfolio2.jpg": "/Portfolio-Website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/Kumari Astha Ranijjk.jpeg": "/Portfolio-Website/static/media/Kumari Astha Ranijjk.4c3b5adb9ee7fd7f0513.jpeg",
+    "static/media/portfolio6.jpg": "/Portfolio-Website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/Portfolio-Website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Portfolio-Website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Portfolio-Website/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.eb5d3190.css.map": "/Portfolio-Website/static/css/main.eb5d3190.css.map",
+    "main.fdb55e6f.js.map": "/Portfolio-Website/static/js/main.fdb55e6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb5d3190.css",
+    "static/js/main.fdb55e6f.js"
+  ]
+}
