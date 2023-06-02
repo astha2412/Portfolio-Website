@@ -1,11 +1,11 @@
 import React from 'react';
 import './portfolio.css';
-import IMG1 from '../../assets/portfolio1.jpg';
-import IMG2 from '../../assets/portfolio2.jpg';
-import IMG3 from '../../assets/portfolio3.jpg';
-import IMG4 from '../../assets/portfolio4.jpg';
-import IMG5 from '../../assets/portfolio5.png';
-import IMG6 from '../../assets/portfolio6.jpg';
+import IMG1 from '../../assets/port1.png';
+import IMG2 from '../../assets/rishi.png';
+import IMG3 from '../../assets/debugger.png';
+import IMG4 from '../../assets/slot.png';
+import IMG5 from '../../assets/learning.png';
+// import IMG6 from '../../assets/portfolio6.jpg';
 
 
 
@@ -13,44 +13,37 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'gdfhgsafdg',
-    github: "",
-    demo: ""
+    title: 'Training and Placement Cell, MMMUT Gorakhpur',
+    github: "https://github.com/TnP-MMMUT/Official-Website",
+    demo: "https://tnpmmmut.tech/#/"
   },
   {
     id: 2,
     image: IMG2,
-    title: 'gdfhgsafdg',
-    github: "",
-    demo: ""
+    title: 'Fashion designer portfolio',
+    github: "https://github.com/astha2412/Fashion_Designer_Portfolio",
+    demo: "rishikesh-singh-portfolio.netlify.app/"
   },
   {
     id: 3,
     image: IMG3,
-    title: 'gdfhgsafdg',
-    github: "",
-    demo: ""
+    title: 'DeBugger King - Event Website',
+    github: "https://github.com/astha2412/Event_DeBugger_King",
+    demo: "https://debuggerking-ces.netlify.app/"
   },
   {
     id: 4,
     image: IMG4,
-    title: 'gdfhgsafdg',
-    github: "",
-    demo: ""
+    title: 'Slot Machine Game',
+    github: "https://github.com/astha2412/Slot-Machine-Game",
+    demo: "https://astha2412.github.io/Slot-Machine-Game/"
   },
   {
     id: 5,
     image: IMG5,
-    title: 'gdfhgsafdg',
-    github: "",
-    demo: ""
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'gdfhgsafdg',
-    github: "",
-    demo: ""
+    title: 'Learning Platforms',
+    github: "https://github.com/astha2412/Learning-platforms",
+    demo: "https://astha2412.github.io/Learning-platforms/"
   }
 ]
 

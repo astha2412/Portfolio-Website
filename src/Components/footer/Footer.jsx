@@ -25,9 +25,12 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <small>
+        {/* <small>
           &copy; Kumari  Astha Rani. All rights reserved.
-        </small>
+        </small> */}
+        <h2>
+        &copy; Kumari  Astha Rani. All rights reserved.
+        </h2>
       </div>
 
     </footer>

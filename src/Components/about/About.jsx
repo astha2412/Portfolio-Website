@@ -1,9 +1,9 @@
 import React from 'react';
 import './about.css';
-import ME from '../../assets/Kumari Astha Ranijjk.jpeg';
-import {FaAward} from 'react-icons/fa';
+import ME from '../../assets/edited.png';
+import {MdLocationPin} from 'react-icons/md';
 import {FaUsers} from 'react-icons/fa';
-import {FaFolder} from 'react-icons/fa';
+import {BsFillWebcamFill} from 'react-icons/bs';
 
 const About = () => {
   return (
@@ -15,32 +15,39 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src= {ME} alt="About Image" />
+            <img src= {ME} alt="About-pic" />
           </div>
           </div>
 
           <div className="about__content">
             <div className="about__cards">
               <article className="about__card">
-                <FaAward className="about__icon" />
-                <h5>Experience</h5>
-                <small>3+ Years Working</small>
+                <MdLocationPin className="about__icon" />
+                <h5>From Ranchi,</h5>
+                <small>Jharkhand</small>
               </article>
 
               <article className="about__card">
                 <FaUsers className="about__icon" />
-                <h5>Experience</h5>
-                <small>3+ Years Working</small>
+                <h5>B.Tech.</h5>
+                <small>Computer Science & Engineering</small>
               </article>
 
               <article className="about__card">
-                <FaFolder className="about__icon" />
-                <h5>Projects</h5>
-                <small>50+ Projects</small>
+                <BsFillWebcamFill className="about__icon" />
+                <h5>Web</h5>
+                <small>Developer</small>
               </article>
             </div>
 
-           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus corrupti neque, quos quibusdam reiciendis sit soluta delectus optio quod explicabo error vero distinctio aspernatur voluptate consequuntur, repellat ipsam modi facere accusantium pariatur! Molestias labore voluptas minus sit nesciunt, eveniet atque?</p>
+           <p>
+           Hola Friends!
+           I am a passionate open source enthusiast and a firm believer in the power of collaboration and knowledge sharing.
+           With my broad expertise in web technologies and my unwavering passion for open source, I am constantly seeking innovative solutions and pushing the boundaries of what's possible. I am excited to continue exploring the ever-evolving tech landscape, facing challenges head-on, and contributing to meaningful projects that have a positive impact.
+
+Please feel free to explore my portfolio and join me on this exhilarating journey. I am eager to connect, collaborate, and bring exceptional ideas to life. Together, let's shape the future with the boundless potential of technology.
+
+           </p>
 
           
         </div>
