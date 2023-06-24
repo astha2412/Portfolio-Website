@@ -41,11 +41,7 @@ const About = () => {
             </div>
 
            <p>
-           Hola Friends!
-           I am a passionate open source enthusiast and a firm believer in the power of collaboration and knowledge sharing.
-           With my broad expertise in web technologies and my unwavering passion for open source, I am constantly seeking innovative solutions and pushing the boundaries of what's possible. I am excited to continue exploring the ever-evolving tech landscape, facing challenges head-on, and contributing to meaningful projects that have a positive impact.
-
-Please feel free to explore my portfolio and join me on this exhilarating journey. I am eager to connect, collaborate, and bring exceptional ideas to life. Together, let's shape the future with the boundless potential of technology.
+           Passionate open source enthusiast with broad expertise in web technologies. Believer in collaboration and knowledge sharing. Continuously seeking innovative solutions and pushing boundaries. Eager to connect, collaborate, and bring exceptional ideas to life. Let's shape the future together with the boundless potential of technology. Explore my portfolio and join the journey.
 
            </p>
 
