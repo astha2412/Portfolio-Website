@@ -5,7 +5,7 @@ import IMG2 from '../../assets/rishi.png';
 import IMG3 from '../../assets/debugger.png';
 import IMG4 from '../../assets/slot.png';
 import IMG5 from '../../assets/learning.png';
-// import IMG6 from '../../assets/portfolio6.jpg';
+import IMG6 from '../../assets/travel.png';
 
 
 
@@ -19,27 +19,34 @@ const data = [
   },
   {
     id: 2,
-    image: IMG2,
-    title: 'Fashion designer portfolio',
-    github: "https://github.com/astha2412/Fashion_Designer_Portfolio",
-    demo: "rishikesh-singh-portfolio.netlify.app/"
+    image: IMG6,
+    title: 'Travel Sync App',
+    github: "https://github.com/astha2412/travel-sync-app",
+    demo: "https://travel-sync-app.netlify.app/"
   },
   {
     id: 3,
+    image: IMG2,
+    title: 'Fashion designer portfolio',
+    github: "https://github.com/astha2412/Fashion_Designer_Portfolio",
+    demo: "https://rishikesh-singh-portfolio.netlify.app/"
+  },
+  {
+    id: 4,
     image: IMG3,
     title: 'DeBugger King - Event Website',
     github: "https://github.com/astha2412/Event_DeBugger_King",
     demo: "https://debuggerking-ces.netlify.app/"
   },
   {
-    id: 4,
+    id: 5,
     image: IMG4,
     title: 'Slot Machine Game',
     github: "https://github.com/astha2412/Slot-Machine-Game",
     demo: "https://astha2412.github.io/Slot-Machine-Game/"
   },
   {
-    id: 5,
+    id: 6,
     image: IMG5,
     title: 'Learning Platforms',
     github: "https://github.com/astha2412/Learning-platforms",
